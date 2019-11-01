@@ -1,0 +1,2 @@
+Gönüllü olarak staj yaptýðým yerde PDF faturalarýný veritabanýna aktaran bir masaüstü programý yapmaya çalýþmýþtým.Devexpress kompanentleri ile
+þimdi daha iyi yapabileceðimi düþüyorum.
